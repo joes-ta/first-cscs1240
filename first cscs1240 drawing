@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T12:56:32.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_M54ccK1JcPsxZXDYj9G" version="13.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-29T15:09:32.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_X4TiJuAQnQHjSGYqEeX" version="13.7.6" type="github" pages="2">
   <diagram id="6xFh3ulIk2_qhSfwWNYu" name="Page-1">
-    <mxGraphModel dx="766" dy="1398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1208,22 +1208,34 @@
           <mxGeometry x="2230" y="490" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S3iGWSo-35JMT45bXn8t-1" value="There is number (named) otherStuff" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1655" y="1030" width="210" height="20" as="geometry" />
+          <mxGeometry x="1695" y="1030" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IGC_7Pd8RF5g1HtziJFX-2" value="&lt;br&gt;&lt;table style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: rgb(140 , 173 , 189) ; border-collapse: collapse ; border-spacing: 0px ; width: 567px ; color: rgb(32 , 45 , 74) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;geneva&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;tbody style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;tr style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: rgb(167 , 199 , 218)&quot;&gt;&lt;td class=&quot;uni&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; vertical-align: middle ; background: transparent ; width: 275px&quot;&gt;lao u+00ee5&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="IGC_7Pd8RF5g1HtziJFX-2" value="&lt;br&gt;&lt;table style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: rgb(140 , 173 , 189) ; border-collapse: collapse ; border-spacing: 0px ; width: 567px ; color: rgb(32 , 45 , 74) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;geneva&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;tbody style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;tr style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: rgb(167 , 199 , 218)&quot;&gt;&lt;td class=&quot;uni&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; vertical-align: middle ; background: transparent ; width: 275px&quot;&gt;lao u+00ee5&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2320" y="390" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IGC_7Pd8RF5g1HtziJFX-3" value="&lt;table style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: rgb(140 , 173 , 189) ; border-collapse: collapse ; border-spacing: 0px ; width: 567px ; color: rgb(32 , 45 , 74) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;geneva&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;tbody style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;tr style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;td class=&quot;char&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; font-size: 1.3em ; vertical-align: middle ; background: transparent ; text-align: center ; width: 23px&quot;&gt;칚&lt;/td&gt;&lt;td class=&quot;uni&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; vertical-align: middle ; background: transparent ; width: 275px&quot;&gt;hangul syllable cigg&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="IGC_7Pd8RF5g1HtziJFX-3" value="&lt;table style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: rgb(140 , 173 , 189) ; border-collapse: collapse ; border-spacing: 0px ; width: 567px ; color: rgb(32 , 45 , 74) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;geneva&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;tbody style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;tr style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;td class=&quot;char&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; font-size: 1.3em ; vertical-align: middle ; background: transparent ; text-align: center ; width: 23px&quot;&gt;칚&lt;/td&gt;&lt;td class=&quot;uni&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; vertical-align: middle ; background: transparent ; width: 275px&quot;&gt;hangul syllable cigg&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2320" y="450" width="580" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IGC_7Pd8RF5g1HtziJFX-4" value="&#xa;&#xa;&lt;table style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 12.8px; vertical-align: baseline; background: rgb(140, 173, 189); border-collapse: collapse; border-spacing: 0px; width: 567px; color: rgb(32, 45, 74); font-family: &amp;quot;helvetica neue&amp;quot;, arial, helvetica, geneva, sans-serif; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;tbody style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;tr style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: rgb(167 , 199 , 218)&quot;&gt;&lt;td class=&quot;char&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; font-size: 1.3em ; vertical-align: middle ; background: transparent ; text-align: center ; width: 23px ; font-weight: normal ; font-style: normal&quot;&gt;伎&lt;/td&gt;&lt;td class=&quot;uni&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: middle ; background: transparent ; width: 275px&quot;&gt;cjk unified ideograph 4f0e&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="IGC_7Pd8RF5g1HtziJFX-4" value="&#xa;&#xa;&lt;table style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 12.8px; vertical-align: baseline; background: rgb(140, 173, 189); border-collapse: collapse; border-spacing: 0px; width: 567px; color: rgb(32, 45, 74); font-family: &amp;quot;helvetica neue&amp;quot;, arial, helvetica, geneva, sans-serif; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;tbody style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: transparent&quot;&gt;&lt;tr style=&quot;margin: 0px ; padding: 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: baseline ; background: rgb(167 , 199 , 218)&quot;&gt;&lt;td class=&quot;char&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; font-size: 1.3em ; vertical-align: middle ; background: transparent ; text-align: center ; width: 23px ; font-weight: normal ; font-style: normal&quot;&gt;伎&lt;/td&gt;&lt;td class=&quot;uni&quot; style=&quot;margin: 0px ; padding: 3px 18px 2px 0px ; border: 0px ; outline: 0px ; font-size: 12.8px ; vertical-align: middle ; background: transparent ; width: 275px&quot;&gt;cjk unified ideograph 4f0e&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2320" y="460" width="580" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ4_cXFVtjDQzc136aFz-1" value="Design-time vs runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1460.38" y="1090" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ4_cXFVtjDQzc136aFz-2" value="&lt;span style=&quot;color: rgb(77 , 81 , 86) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;execution model&lt;br&gt;runtime lifecycle phase&lt;br&gt;frameworks&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1035" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ4_cXFVtjDQzc136aFz-3" value="declarations vs imperatives" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mQ4_cXFVtjDQzc136aFz-7" value="declaration:&lt;br&gt;identifier&lt;br&gt;datatype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1075" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8kM-BmpYVgoNysvdIaao" name="numbers">
-    <mxGraphModel dx="1632" dy="1446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2673" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AQUPsdgH22GD0BCzHjxw-0" />
         <mxCell id="AQUPsdgH22GD0BCzHjxw-1" parent="AQUPsdgH22GD0BCzHjxw-0" />
@@ -1787,31 +1799,31 @@
         <mxCell id="b1DIgmlQsDpr1eFolocS-143" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-350" y="630" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-0" value="0&lt;br&gt;1&lt;br&gt;2&lt;br&gt;3&lt;br&gt;4&lt;br&gt;5&lt;br&gt;6&lt;br&gt;7&lt;br&gt;8&lt;br&gt;9&lt;br&gt;&lt;div&gt;&lt;span&gt;10&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;100&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;999&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1000&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=top;resizable=0;points=[];autosize=1;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-0" value="0&lt;br&gt;1&lt;br&gt;2&lt;br&gt;3&lt;br&gt;4&lt;br&gt;5&lt;br&gt;6&lt;br&gt;7&lt;br&gt;8&lt;br&gt;9&lt;br&gt;&lt;div&gt;&lt;span&gt;10&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;99&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;100&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;999&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1000&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=top;resizable=0;points=[];autosize=1;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-302.5" y="750" width="40" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-1" value="ones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-1" value="ones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-290" y="730" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-2" value="tens" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-2" value="tens" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-305" y="730" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-3" value="hundreds" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-3" value="hundreds" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-335" y="720" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-4" value="thousands" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-4" value="thousands" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-350" y="720" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-5" value="5734" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-5" value="5734" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-235" y="980" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-6" value="five-thousand seven-hundred thirty four" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-6" value="five-thousand seven-hundred thirty four" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-350" y="1000" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-7" value="five one-thousands seven one-hundreds three tens four ones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-7" value="five one-thousands seven one-hundreds three tens four ones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-410" y="1020" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9GpFtVml4J0zhgJdSea-8" value="fifty seven one-hundreds thirty four ones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AQUPsdgH22GD0BCzHjxw-1">
+        <mxCell id="F9GpFtVml4J0zhgJdSea-8" value="fifty seven one-hundreds thirty four ones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="AQUPsdgH22GD0BCzHjxw-1" vertex="1">
           <mxGeometry x="-355" y="1040" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
