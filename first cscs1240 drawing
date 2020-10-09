@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T13:37:28.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_Kp5K_ZjxUkF1_5Jv1Ag" version="13.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-09T13:35:54.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="wUxX_p8hOJVNDyjKulLJ" version="13.7.8" type="github" pages="3">
   <diagram id="6xFh3ulIk2_qhSfwWNYu" name="Page-1">
-    <mxGraphModel dx="752" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="564" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1300,11 +1300,17 @@
         <mxCell id="gfhWjbUlBful1yquyRVA-4" value="Banana is&amp;nbsp; string&lt;br&gt;word is a string&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;if Banana == word then Banana = &quot;potato&quot; and word = &quot;Banana&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2290" y="1280" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b3_L_RJpSu_FLdPZkJCD-1" value="bhfrharlbg;g;uoerg;orieiao;enogibrgio;ae" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="b3_L_RJpSu_FLdPZkJCD-1" value="bhfrharlbg;g;uoerg;orieiao;enogibrgio;ae" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2210" y="1400" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b3_L_RJpSu_FLdPZkJCD-2" value="&quot;bhfrharlbg;g;uoerg;orieiao;enogibrgio;ae&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="b3_L_RJpSu_FLdPZkJCD-2" value="&quot;bhfrharlbg;g;uoerg;orieiao;enogibrgio;ae&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2210" y="1430" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTndljRUo2dm4q6LK8n5-1" value="+45b.884a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2235" y="1470" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QTndljRUo2dm4q6LK8n5-2" value="operation notation&lt;br&gt;prefix&lt;br&gt;infix&lt;br&gt;postfix" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1240" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
