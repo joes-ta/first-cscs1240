@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T13:36:17.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="zCeZYX0k9uX0FjeMAn4s" version="13.8.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-21T14:16:27.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ltkSNvTSbQrQn6h17vZg" version="13.8.0" type="github" pages="4">
   <diagram id="6xFh3ulIk2_qhSfwWNYu" name="Page-1">
-    <mxGraphModel dx="359" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="648" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2324,7 +2324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r_-54YmCc0ZwpSKNE2GG" name="Selection">
-    <mxGraphModel dx="-1177" dy="-767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-924" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="f13ZfGC463JWySoBl-Qp-0" />
         <mxCell id="f13ZfGC463JWySoBl-Qp-1" parent="f13ZfGC463JWySoBl-Qp-0" />
@@ -2347,13 +2347,37 @@
           <mxGeometry x="2565" y="1985" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8ZqKy8sw7-KSFBboSw-w-0" value="&lt;div&gt;whether to come to class in person&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;how I&#39;m feeling today&lt;/div&gt;&lt;div&gt;how stubborn person is&lt;/div&gt;&lt;div&gt;whether in-person is legal&lt;/div&gt;&lt;div&gt;how much sleep&lt;/div&gt;&lt;div&gt;how much gas in car&lt;/div&gt;&lt;div&gt;how close you live to campus&lt;/div&gt;&lt;div&gt;weather conditions&lt;/div&gt;&lt;div&gt;professor is still alive&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;feeling is a string&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;good&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;ok&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;bad&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;awesome&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;feeling is a number&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;1 - 10&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;stubbornness is a number&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;1 - 10&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;stubbornness is a string&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;not at all&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;very&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&quot;somewhat&quot;&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;comment: feeling represented by linear scale one to ten&lt;/div&gt;&lt;div&gt;comment: one-end is worst feeling, ten-end is best feeling&lt;/div&gt;&lt;div&gt;comment: 4 is threshold for going to class&lt;span&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;feeling is a number&lt;/div&gt;&lt;div&gt;if feeling&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
-          <mxGeometry x="2190" y="1130" width="320" height="430" as="geometry" />
+          <mxGeometry x="2190" y="1140" width="320" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="7sg9n4WGa_J4gjdxrH4a-0" value="All computer does is manipulate bit patterns&lt;br&gt;anything can be represented as a bit pattern&lt;br&gt;memory is addressable bit patterns (groups of 8/16/32/64 aka words)&lt;br&gt;we give more friendly names to numeric addresses&lt;br&gt;datatype specifies amount of bits (aka size) and the organization&lt;br&gt;two basic datatypes are strings and numbers&lt;br&gt;declare a name and datatype to store a value&lt;br&gt;imperatives (commands) to manipulate values (by name once declared)&lt;br&gt;we designate sequences of imperatives (start/end e.g. { }, aka block)&lt;br&gt;select blocks to execute (aka run)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+        <mxCell id="7sg9n4WGa_J4gjdxrH4a-0" value="All computer does is manipulate bit patterns&lt;br&gt;anything can be represented as a bit pattern&lt;br&gt;memory is addressable bit patterns (groups of 8/16/32/64 aka words)&lt;br&gt;we give more friendly names to numeric addresses&lt;br&gt;datatype specifies amount of bits (aka size) and the organization&lt;br&gt;two basic datatypes are strings and numbers&lt;br&gt;declare a name and datatype to store a value&lt;br&gt;imperatives (commands) to manipulate values (by name once declared)&lt;br&gt;we designate sequences of imperatives (start/end e.g. { }, aka block)&lt;br&gt;select blocks to execute (aka run)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="1745" y="1130" width="400" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="fzcJWAmLHMd1FKsrmB79-0" value="&lt;span style=&quot;font-family: &amp;#34;whitney&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgba(4 , 4 , 5 , 0.07)&quot;&gt;Prove it, represent Austin with a bit pattern&lt;br&gt;&lt;/span&gt;I&#39;ll go you one better and represent all of you&lt;br&gt;all of you are taking this course&lt;br&gt;there are 18 taking this course&lt;br&gt;therefore, 5 bits are needed&lt;br&gt;Austin is 01010&lt;br&gt;add another bit for status (active/inactive)&lt;br&gt;Austin is 001010 (inactive)&lt;br&gt;or&amp;nbsp;&lt;br&gt;Austin is 101010 (active)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+        <mxCell id="fzcJWAmLHMd1FKsrmB79-0" value="&lt;span style=&quot;font-family: &amp;#34;whitney&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgba(4 , 4 , 5 , 0.07)&quot;&gt;Prove it, represent Austin with a bit pattern&lt;br&gt;&lt;/span&gt;I&#39;ll go you one better and represent all of you&lt;br&gt;all of you are taking this course&lt;br&gt;there are 18 taking this course&lt;br&gt;therefore, 5 bits are needed&lt;br&gt;Austin is 01010&lt;br&gt;add another bit for status (active/inactive)&lt;br&gt;Austin is 001010 (inactive)&lt;br&gt;or&amp;nbsp;&lt;br&gt;Austin is 101010 (active)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="1745" y="1310" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Xc5dlO_MyiX-zUYcQiuZ-0" value="goToClassInPerson is a string&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;&lt;br&gt;feelingToday is a number&lt;br&gt;input feelingToday&lt;br&gt;&lt;br&gt;if feelingToday &amp;lt;= 5" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="2580" y="1100" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r1479k3z2FOlHaq5a9ie-0" value="goToClassInPerson is a string&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;&lt;br&gt;comment: expecting a number 1 - 10&lt;br&gt;feelingToday is a number&lt;br&gt;input feelingToday&lt;br&gt;&lt;br&gt;comment: scale of 1 - 10 and 10 is best&lt;br&gt;comment: check if feeing good enough to go to class&lt;br&gt;threshold is a number&lt;br&gt;threshold = 5&lt;br&gt;if feelingToday &amp;lt;= threshold then goToClassInPerson = &quot;no&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="2780" y="1065" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r1479k3z2FOlHaq5a9ie-1" value="goToClassInPerson is a string&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;&lt;br&gt;comment: expecting a number 1 - 10&lt;br&gt;feelingToday is a number&lt;br&gt;input feelingToday&lt;br&gt;&lt;br&gt;comment: scale of 1 - 10 and 10 is best&lt;br&gt;comment: check if feeing good enough to go to class&lt;br&gt;threshold is a number&lt;br&gt;threshold = 5&lt;br&gt;if feelingToday &amp;lt;= threshold then goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;comment: expecting a number 1 - 10 and 10 is most stubborn&lt;br&gt;stubbornessToday is a number&lt;br&gt;input stubbornesstoday&lt;br&gt;&lt;br&gt;if stubbornessToday&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="3140" y="1030" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="r1479k3z2FOlHaq5a9ie-2" value="goToClassInPerson is a string&lt;br&gt;goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;comment: expecting a number 1 - 10&lt;br&gt;feelingToday is a number&lt;br&gt;input feelingToday&lt;br&gt;&lt;br&gt;comment: scale of 1 - 10 and 10 is best&lt;br&gt;comment: check if feeing good enough to go to class&lt;br&gt;threshold is a number&lt;br&gt;threshold = 5&lt;br&gt;if feelingToday &amp;gt; threshold then goToClassInPerson = &quot;yes&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="2780" y="1280" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="r1479k3z2FOlHaq5a9ie-3" value="if is a string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="1745" y="1490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r1479k3z2FOlHaq5a9ie-4" value="" style="endArrow=none;html=1;" edge="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1710" y="1510" as="sourcePoint" />
+            <mxPoint x="1840" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r1479k3z2FOlHaq5a9ie-5" value="&quot;if &quot; will always be followed by a boolean expression&lt;br&gt;&amp;nbsp; &amp;nbsp; boolean means only two values&lt;br&gt;&amp;nbsp; &amp;nbsp; expression means can be resolved (evaluated ) into one of two values&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="1745" y="1520" width="400" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
