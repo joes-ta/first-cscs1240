@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T13:39:34.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="3FgKtQavnUH49741PQJH" version="13.8.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-27T15:05:45.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dp6Ru93RODuAO0Xe5SDp" version="13.8.2" type="github" pages="4">
   <diagram id="6xFh3ulIk2_qhSfwWNYu" name="Page-1">
-    <mxGraphModel dx="984" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1397,7 +1397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8kM-BmpYVgoNysvdIaao" name="numbers">
-    <mxGraphModel dx="1478" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AQUPsdgH22GD0BCzHjxw-0" />
         <mxCell id="AQUPsdgH22GD0BCzHjxw-1" parent="AQUPsdgH22GD0BCzHjxw-0" />
@@ -1992,7 +1992,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Li0mUOr2ODpCuGmV1nks" name="coins">
-    <mxGraphModel dx="523" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="DacJnrMyBZ_STfD5ijPn-0" />
         <mxCell id="DacJnrMyBZ_STfD5ijPn-1" parent="DacJnrMyBZ_STfD5ijPn-0" />
@@ -2320,11 +2320,56 @@
         <mxCell id="V3dEiAa0t3NQxpQpYu4I-31" value="H -&amp;gt; bill&lt;br&gt;T -&amp;gt; coin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="DacJnrMyBZ_STfD5ijPn-1" vertex="1">
           <mxGeometry x="150" y="685" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-0" value="area code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="85" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-1" value="exchange" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="155" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-2" value="subscriber" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="215" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-3" value="0-999" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="85" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-4" value="0-999" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="155" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-5" value="0-9999" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="220" y="770" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CJMF5YMRK7uZB1tw_g9S-6" value="10 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="85" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yPrZa1VYy4RaEN5u-2VS-0" value="10 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="155" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-0" value="14 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="225" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-1" value="34 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="295" y="790" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-2" value="16 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="85" y="810" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-3" value="16 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="155" y="810" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-4" value="16 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="225" y="810" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-5" value="48 bits" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="295" y="810" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L5i5EGsrKTPYQoi2YEWb-6" value="PhoneNumber (data)type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="DacJnrMyBZ_STfD5ijPn-1">
+          <mxGeometry x="370" y="750" width="150" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="r_-54YmCc0ZwpSKNE2GG" name="Selection">
-    <mxGraphModel dx="-823" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-971" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="f13ZfGC463JWySoBl-Qp-0" />
         <mxCell id="f13ZfGC463JWySoBl-Qp-1" parent="f13ZfGC463JWySoBl-Qp-0" />
@@ -2379,8 +2424,8 @@
         <mxCell id="r1479k3z2FOlHaq5a9ie-5" value="&quot;if &quot; will always be followed by a boolean expression&lt;br&gt;&amp;nbsp; &amp;nbsp; boolean means only two values&lt;br&gt;&amp;nbsp; &amp;nbsp; expression means can be resolved (evaluated ) into one of two values&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="1745" y="1520" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-YJIC493-lNa91KeeX0E-0" value="goToClassInPerson is a string&lt;br&gt;feelingToday is a number&lt;br&gt;comment: expecting feelingToday is a number 1 - 10&lt;br&gt;comment: scale of 1 - 10 and 10 is best&lt;br&gt;comment: check if feeing good enough to go to class&lt;br&gt;thresholdFeeling is a number&lt;br&gt;stubbornessToday is a number&lt;br&gt;comment: expecting a number 1 - 10 and 10 is most stubborn&lt;br&gt;thresholdStub is a number&lt;br&gt;&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;thresholdFeeling= 5&lt;br&gt;thresholdStub = 6&lt;br&gt;&lt;br&gt;&lt;br&gt;input feelingToday&lt;br&gt;comment: we should validate the above input&lt;br&gt;if feelingToday &amp;lt;= thresholdFeeling then goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;input stubbornesstoday&lt;br&gt;if stubbornessToday &amp;lt;= threshold then goToClassInPerson = &quot;no&quot;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
-          <mxGeometry x="3550" y="1010" width="370" height="320" as="geometry" />
+        <mxCell id="-YJIC493-lNa91KeeX0E-0" value="goToClassInPerson is a String&lt;br&gt;feelingToday is a Number&lt;br&gt;comment: expecting feelingToday is a number 1 - 10&lt;br&gt;comment: scale of 1 - 10 and 10 is best&lt;br&gt;comment: check if feeing good enough to go to class&lt;br&gt;thresholdFeeling is a Number&lt;br&gt;stubbornessToday is a Number&lt;br&gt;comment: expecting a Number 1 - 10 and 10 is most stubborn&lt;br&gt;thresholdStub is a Number&lt;br&gt;&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;thresholdFeeling= 5&lt;br&gt;thresholdStub = 6&lt;br&gt;&lt;br&gt;input feelingToday&lt;br&gt;comment: we should validate the above input&lt;br&gt;if feelingToday &amp;lt;= thresholdFeeling then goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;input stubbornesstoday&lt;br&gt;if( stubbornessToday &amp;lt;= threshold ) goToClassInPerson = &quot;no&quot;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
+          <mxGeometry x="3550" y="1015" width="370" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
