@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T14:43:52.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KscKVxW90CcxLbv_9fKe" version="13.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-30T14:42:22.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="62bQVf8ypIqqR8DpmYKu" version="13.8.6" type="github" pages="4">
   <diagram id="6xFh3ulIk2_qhSfwWNYu" name="Page-1">
     <mxGraphModel dx="984" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2369,11 +2369,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r_-54YmCc0ZwpSKNE2GG" name="Selection">
-    <mxGraphModel dx="-956" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-908" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="f13ZfGC463JWySoBl-Qp-0" />
         <mxCell id="f13ZfGC463JWySoBl-Qp-1" parent="f13ZfGC463JWySoBl-Qp-0" />
-        <mxCell id="R4Uu54Krz3pvfYAwAsAf-2" value="a is a Number&lt;br&gt;there is a Number named a&lt;br&gt;Number a&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+        <mxCell id="R4Uu54Krz3pvfYAwAsAf-2" value="a is a Number&lt;br&gt;there is a Number named a&lt;br&gt;Number a&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="4270" y="1015" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f13ZfGC463JWySoBl-Qp-3" value="firstSymbolValid is a string" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
@@ -2430,14 +2430,20 @@
         <mxCell id="-YJIC493-lNa91KeeX0E-0" value="goToClassInPerson is a String&lt;br&gt;feelingToday is a Number&lt;br&gt;comment: expecting feelingToday is a number 1 - 10&lt;br&gt;comment: scale of 1 - 10 and 10 is best&lt;br&gt;comment: check if feeing good enough to go to class&lt;br&gt;thresholdFeeling is a Number&lt;br&gt;stubbornessToday is a Number&lt;br&gt;comment: expecting a Number 1 - 10 and 10 is most stubborn&lt;br&gt;thresholdStub is a Number&lt;br&gt;legal is a String&lt;br&gt;&lt;br&gt;goToClassInPerson = &quot;yes&quot;&lt;br&gt;thresholdFeeling= 5&lt;br&gt;thresholdStub = 6&lt;br&gt;&lt;br&gt;input feelingToday&lt;br&gt;comment: we should validate the above input&lt;br&gt;if feelingToday &amp;lt;= thresholdFeeling then goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;input stubbornesstoday&lt;br&gt;if( stubbornessToday &amp;lt;= threshold ) &lt;br&gt;&amp;nbsp; &amp;nbsp;goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;input legal&lt;br&gt;if( legal != &quot;true&quot; ) goToClassInPerson = &quot;no&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="3550" y="970" width="370" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="R4Uu54Krz3pvfYAwAsAf-0" value="&lt;span&gt;input legal&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;if( legal == &quot;true&quot; ) goToClassInPerson = &quot;yes&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;else goToClassInPerson = &quot;no&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+        <mxCell id="R4Uu54Krz3pvfYAwAsAf-0" value="&lt;span&gt;input legal&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;if( legal == &quot;true&quot; ) goToClassInPerson = &quot;yes&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;else goToClassInPerson = &quot;no&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="4100" y="1310" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R4Uu54Krz3pvfYAwAsAf-1" value="&lt;span style=&quot;text-align: left&quot;&gt;if( legal == &quot;false&quot; ) goToClassInPerson = &quot;no&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+        <mxCell id="R4Uu54Krz3pvfYAwAsAf-1" value="&lt;span style=&quot;text-align: left&quot;&gt;if( legal == &quot;false&quot; ) goToClassInPerson = &quot;no&quot;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="3805" y="1315" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R4Uu54Krz3pvfYAwAsAf-4" value="a is a Number&lt;br&gt;_____ is a ____&lt;br&gt;a Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+        <mxCell id="R4Uu54Krz3pvfYAwAsAf-4" value="a is a Number&lt;br&gt;_____ is a ____&lt;br&gt;a Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="f13ZfGC463JWySoBl-Qp-1" vertex="1">
           <mxGeometry x="4470" y="1015" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX1jL3x0wz12MORq8Z7-0" value="BNF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="4670" y="1000" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VcX1jL3x0wz12MORq8Z7-1" value="Backus Naur Form" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="f13ZfGC463JWySoBl-Qp-1">
+          <mxGeometry x="4630" y="1020" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
